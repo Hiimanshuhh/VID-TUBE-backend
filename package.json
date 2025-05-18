@@ -2,7 +2,7 @@
   "name": "vid-tube",
   "version": "1.0.0",
   "description": "Project inspired by youtube ",
-  "module": "module",
+  "type": "module",
   "main": "src/script.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
